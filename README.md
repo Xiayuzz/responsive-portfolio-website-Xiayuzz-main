@@ -1,12 +1,15 @@
 # Xiayuzz personal website
-- Copy from --[Bedimcode](https://www.youtube.com/c/Bedimcode)
+-源自[Bedimcode](https://www.youtube.com/c/Bedimcode)
+使用HTML CSS和JavaScript的响应式个人投资组合网站
 
+每个部分的平滑滚动。
 
-- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+包括浅色和深色模式。
+
+首先使用移动优先方法开发，然后针对桌面开发。
+
+与所有移动设备兼容，并具有美观宜人的用户界面。
+
 
 
 
