@@ -12,7 +12,7 @@
 -与所有移动设备兼容，并具有美观宜人的用户界面。
 
 -拥有中英转化功能。
-![网页捕获_14-4-2023_19223_xiayuzz github io](https://user-images.githubusercontent.com/119193834/232030936-cb504c4d-04a1-416e-9bce-9898d3155060.jpg)
+
 
 
 
