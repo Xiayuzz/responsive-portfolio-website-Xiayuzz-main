@@ -76,9 +76,11 @@
     "contact__title":"Contact me",
     "contact__subtitle":"Get in touch",
     "tel":"Call me",
-    "tel__number":"166********",
     "email":"E-mail",
-    "email__address":"asoutherncat@gmail.com",
     "location":"Location",
-    "location__detail":"HuNan , CHN"
+    
+    "contact__label1":"Name:",
+    "contact__label2":"Email:",
+    "contact__label4":"Message:",
+    "contact__button":"Send Message"
 }
