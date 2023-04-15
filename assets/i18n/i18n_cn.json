@@ -85,10 +85,10 @@
     "location":"位置",
     "location__detail":"湖南省",
     
-    "contact__label1":"姓名",
-    "contact__label2":"电子邮箱",
-    "contact__label3":"计划",
-    "contact__label4":"信息",
+    "contact__label1":"姓名：",
+    "contact__label2":"电子邮箱：",
+    "contact__label3":"计划：",
+    "contact__label4":"信息：",
     "contact__button":"发送信息"
 
 }
